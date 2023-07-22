@@ -1,6 +1,6 @@
 # Roll-a-Dice
 
-To Visit [click me](https://sai-mudike.github.io/Roll-a-Dice/) 
+To Visit live [click me](https://sai-mudike.github.io/Roll-a-Dice/) 
 
 ## Display View:
 
